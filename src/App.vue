@@ -15,7 +15,6 @@ export default {
     myHeader,
     tab
   }
-
 }
 </script>
 
